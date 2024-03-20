@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/duvig_/Desktop/cours/BUT_INFORMATIQUE/BUT2/S3/Ressources S3/R3.05 - Programmation du système/TPs/TP4",
+      "program": "c:/Users/duvig_/Desktop/cours/BUT_INFORMATIQUE/BUT2/S3/Ressources S3/R3.05 - Programmation du système/TPs/TP4/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
